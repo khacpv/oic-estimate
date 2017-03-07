@@ -42,7 +42,7 @@ nconf
     DATA_BACKEND: 'datastore',
 
     // This is the id of your project in the Google Cloud Developers Console.
-    GCLOUD_PROJECT: '',
+    GCLOUD_PROJECT: 'oic-estimate',
 
     // MongoDB connection string
     // https://docs.mongodb.org/manual/reference/connection-string/
