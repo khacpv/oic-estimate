@@ -8,3 +8,5 @@ test/encrypted/nodejs-docs-samples.json
 .idea/
 key.json
 */yarn.lock
+*.sublime*
+oic-estimate.cred
